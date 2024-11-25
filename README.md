@@ -54,7 +54,7 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,mongodb,mysql,tensorflow,pytorch,linux" alt="Skills Icons" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srijanbakhati&label=Profile%20views&color=0eb4a1&style=flat" alt="crjanb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srijanbakhati&label=Profile%20views&color=0eb4a1&style=flat" alt="srijanbakhati" /> </p>
 
 ---
 
